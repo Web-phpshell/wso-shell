@@ -1,5 +1,5 @@
-# wso-shell
-wso shell
+# wso-Green-shell
+wso-Green-shell
 Wso Green Shell
 	</div>
 					<h3 style="text-align: center;"><strong><img title="gren shell" src="https://www.wsoshell.org/uploads/blog/2022/05/gren-shell.jpg" alt="gren shell" width="1200" height="624" /></strong></h3>
