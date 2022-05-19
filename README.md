@@ -32,5 +32,5 @@ Logout
 
 Self Remov
 
-<h2 style="text-align: center;"><a href="https://www.wsoshell.org/uploads/blog/2022/05/wsogren4.zip"><span style="background-color: #800000; color: #000000;"><strong>DOWNLOAD</strong></span></a></h2>
+<h2 style="text-align: center;"><span style="background-color: #800000; color: #000000;"><strong>DOWNLOAD</strong></span></a></h2>
 pass:wsogren
